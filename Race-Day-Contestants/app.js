@@ -18,5 +18,5 @@ if (ifAdult && registeredEarly) {
 } else if (ifAdult === 18) {
   console.log('Check the registration at the desk.')
 } else {
-  console.log('Young registrants run at 12:30 (regardles of their registration)');
+  console.log('Young registrants run at 12:30 (regardless of their registration)');
 } 
